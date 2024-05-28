@@ -1,0 +1,8 @@
+Question: If you deploy a service named my-service, which URL would you be able to use to access the default serving version of that service?
+https://appspot.com.my-service.ue
+https://my-service-dot-{project_id}.appspot.com
+**https://my-service.ue.r.appspot.com**
+https://appspot.ue.r.com/my-service
+https://ue.r.my-service.appspot.com
+
+
